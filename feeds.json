@@ -1,0 +1,35 @@
+{
+    "posts": [
+    {
+        "post": {
+			"postId" :"eedf204c-b3a4-4ffa-b378-96de1a0ed359",
+			"tweet" : "this is my first post #MYFIRST",
+			"user" : {
+					 "userId": "5d4b6c5e-51cd-46af-82de-aa2518bb8f9f",
+					 "profilePic" : "http://images.clipartpanda.com/user-clipart-matt-icons_preferences-desktop-personal.png"
+			},
+			"coordinates": [
+          -0.11436939239501953,
+          51.511092905004745
+        ]
+		}
+    },
+	{
+        "post": {
+			"postId" :"eqdf204c-b3a4-4ffa-b378-96de1a0ed352",
+			"tweet" : "this is my second post",
+			"url" : "https://media.istockphoto.com/photos/red-apple-with-leaf-isolated-on-white-background-picture-id185262648",
+			"user" : {
+			
+					 "userId": "5a4b6c5e-51cd-46af-82de-aa2518bb8f9c",
+					 "profilePic" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/220px-User_icon_2.svg.png"
+					 
+			},
+			 "coordinates": [
+          -0.13084888458251953,
+          51.51656790600135
+        ]
+		}
+    }
+    ]
+}
